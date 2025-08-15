@@ -5,7 +5,7 @@ from LTL2C. It aims at making the functionality of both available in form of a
 library while maintaining compatibility with the original algorithms.
 
 For bug-reports and/or questions about libltl2ba, please contact Franz Brauße:
-<franz.brausse@manchester.ac.uk>
+<fb@paxle.org>
 
 LTL2C has been written by Jeremy Morse.  It is based on LTL2BA version 1.1 and
 adds output formats for dot and the ESBMC model checker.
